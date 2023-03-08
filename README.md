@@ -1,6 +1,4 @@
-# team-ecsite
-
-## チーム開発で作ったECサイトです。
+# チーム開発で作ったECサイトです。
 このteam-ecsiteでは、私自身が担当したもののみまとめています。<br>
 チームで開発して完成したものは下記のURLからご確認いただけます。<br>
 https://github.com/internousdevteam/workspace-garnet
